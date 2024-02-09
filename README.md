@@ -1,2 +1,2 @@
 # happynewyear
-you can view this code on https://kumarvicku.github.io/happynew/
+You can view this code on https://dtrung98.github.io/newyear/
